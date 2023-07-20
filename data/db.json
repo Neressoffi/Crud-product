@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 424,
+      "name": "Deuxieme article",
+      "unitPrice": 400,
+      "quantity": 5,
+      "description": "Helloo wwtestttttttttttttttttttttt",
+      "date": "02/01/2021"
+    },
+    {
+      "id": 425,
+      "name": "Dernier test",
+      "unitPrice": 20,
+      "quantity": "Duplex",
+      "description": "Testttttttttttttttttttttttttttttttttt",
+      "date": "02/01/2021"
+    },
+    {
+      "id": 426,
+      "name": "This is a great tutorial",
+      "unitPrice": 30.5,
+      "quantity": "Tony",
+      "description": "hehehe",
+      "date": "02/01/2021"
+    },
+    {
+      "id": 427,
+      "name": "Roland",
+      "quantity": "Tony",
+      "description": "BLABLAVLA",
+      "unitPrice": 2000,
+      "date": "02/01/2021"
+    },
+    {
+      "id": 428,
+      "name": "produit",
+      "unitPrice": 3.9,
+      "quantity": "Tony",
+      "description": "Textrea",
+      "date": "02/01/2021"
+    },
+    {
+      "id": 429
+    },
+    {
+      "name": "Test",
+      "unitPrice": "20",
+      "quantity": "2",
+      "description": "Test",
+      "date": "2023-07-20 19:56:03.508Z",
+      "id": 430
+    },
+    {
+      "name": "Mon produit",
+      "unitPrice": "50",
+      "quantity": "50",
+      "description": "Description",
+      "date": "2023-07-20 21:00:48.109Z",
+      "id": 431
+    }
+  ]
+}
